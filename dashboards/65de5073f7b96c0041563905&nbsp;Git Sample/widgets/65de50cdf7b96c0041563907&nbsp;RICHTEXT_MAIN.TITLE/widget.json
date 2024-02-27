@@ -46,7 +46,7 @@
     "style": {
         "content": {
             "bgColor": "#FFFFFF",
-            "html": "<font size=\"5\">Goodbye Mars</font>",
+            "html": "<font size=\"5\">Hello World</font>",
             "textAlign": "center",
             "vAlign": "valign-middle"
         }
