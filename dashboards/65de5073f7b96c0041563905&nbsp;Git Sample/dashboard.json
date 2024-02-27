@@ -1,4 +1,5 @@
 {
+    "allowChangeSubscription": false,
     "autoUpdateOnFiltersChange": true,
     "dataExploration": false,
     "datasource": {
@@ -32,8 +33,30 @@
             "name": "Vivid"
         }
     },
+    "subscription": {
+        "active": false,
+        "context": {
+            "dashboardid": "65de5073f7b96c0041563905"
+        },
+        "emailSettings": {
+            "isEmail": true,
+            "isPdf": false
+        },
+        "executionPerDay": 1,
+        "isDataChange": true,
+        "reportType": {
+            "inline": true
+        },
+        "schedule": "* * * * * *",
+        "startAt": "2024-02-27",
+        "subscribe": false,
+        "timezone": 420,
+        "type": "onUpdate",
+        "tzName": "America/Denver"
+    },
     "title": "Git Sample",
     "useAcceleration": false,
     "widgets": [
+        "./widgets/65de50cdf7b96c0041563907/widget.json"
     ]
 }
