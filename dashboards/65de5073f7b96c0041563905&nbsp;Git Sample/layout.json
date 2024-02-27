@@ -1,5 +1,33 @@
 {
     "layout": {
+        "columns": [
+            {
+                "cells": [
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 128,
+                                        "height": 128,
+                                        "maxHeight": 2048,
+                                        "maxWidth": 2048,
+                                        "minHeight": 64,
+                                        "minWidth": 64,
+                                        "widgetid": "65de50cdf7b96c0041563907"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "width": 100
+            }
+        ],
+        "container": {
+        },
+        "instanceid": "07D51-84A4-82",
+        "type": "columnar"
     },
     "previewLayout": [
     ]
